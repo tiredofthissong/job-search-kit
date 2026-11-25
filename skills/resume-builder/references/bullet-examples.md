@@ -16,7 +16,7 @@ Each "after" says the same fact in words support postings use, with a number whe
 
 ## Informal tech help (label it honestly)
 - Before: Fix my family's phones and Wi-Fi.
-- After (in a "Technical Skills" line, or a "Volunteer / Informal" entry): Set up and troubleshoot smartphones, home Wi-Fi, printers and account logins for family and neighbors.
+- After (as the optional "Informal tech help" line under Skills in the resume template): Set up and troubleshoot smartphones, home Wi-Fi, printers and account logins for family and neighbors.
 
 ## Point of sale problems
 - Before: Fixed the POS when it froze.

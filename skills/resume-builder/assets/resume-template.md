@@ -16,6 +16,7 @@ Job Title | Company, City, State | Mon YYYY – Mon YYYY
 
 SKILLS
 [8 to 12 real skills, comma-separated, using the words postings use. Typing speed if 40+ wpm.]
+[Optional second line: Informal tech help: what he did, for family and friends.]
 
 CERTIFICATIONS (only if any; "in progress" with expected month is OK)
 - Name, Issuer, Year

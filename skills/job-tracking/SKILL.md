@@ -14,13 +14,14 @@ Read `references/coach-rules.md` first and follow it. Message templates are in `
 - Keep it as a Google Sheet named "Job Tracker" in his Drive "Job Search" folder if Google Drive is connected; otherwise as a spreadsheet file he downloads and attaches when needed. Create it from `assets/application-tracker.csv` the first time.
 - Add or update one row each time he finds, applies to, or hears back about a job. Show him the row you changed.
 - Statuses: Saved, Applied, Interview, Offer, No, Withdrawn.
+- Don't log postings that got a Red scam verdict.
 
-## What's next (when he asks, or at the start of a session)
+## What's next (when he asks, or when he opens a chat with no other task)
 List what's due, nearest first, at most 5 lines: follow-ups due, thank-yous due, interviews coming up. Then offer to draft the first one.
 
 ## Follow-up timing
 - After applying: about one week, if he has a contact. One polite check-in; after two unanswered follow-ups, move on.
-- After an interview: thank-you within 24 hours, one to each interviewer.
+- After an interview: thank-you within 24 hours, one to each interviewer. Ask for each interviewer's email (usually in the interview invite); if he has none, send one thank-you to the recruiter.
 - After the date they said they'd decide: one polite check-in.
 - Silence is common (most applicants have been ghosted at least once); keep applying while waiting.
 

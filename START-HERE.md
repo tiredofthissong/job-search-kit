@@ -25,6 +25,7 @@ If I get stuck I'll type **help**. I'll type **skip** to skip a question, and **
 - **is this a scam?** (then paste the message or posting)
 - **practice an interview**
 - **what's next?**
+- **start over** (restart the current step; your Career Profile stays)
 
 ## Good to know
 - Claude writes; you click. You submit every application, update LinkedIn, and send every email yourself.

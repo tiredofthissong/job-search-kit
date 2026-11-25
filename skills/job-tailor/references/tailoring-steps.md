@@ -7,7 +7,7 @@ Sources: MIT CAPD ATS guidance https://capd.mit.edu/resources/make-your-resume-a
 3. **Retitle the summary** to the posting's job title if his experience fits it.
 4. **Reorder bullets** so the ones closest to the posting come first in each job.
 5. **Pick stories**: choose 1 or 2 Story Bank wins that match the posting's top needs and make sure they're on the page.
-6. **Check knockouts** again: schedule, location, remote equipment, typing speed, certificates, work authorization.
+6. **Check must-haves** again: schedule, location, remote equipment, typing speed, certificates, work authorization. Screening answers must be true today; "I'm getting one" is a no until he has it.
 7. **Keep it one page** and the format unchanged (one column).
 8. **Plain-text test** on the tailored copy.
 

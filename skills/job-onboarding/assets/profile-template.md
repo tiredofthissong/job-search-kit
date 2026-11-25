@@ -65,4 +65,5 @@ Status: [complete / in progress: parts marked TO ASK]
 - 
 
 ## Notes for later
+- Stopped after question: [number, if paused]
 - 

@@ -17,7 +17,9 @@ Sources: MIT Career Advising & Professional Development, "Make your resume ATS f
 
 ## Files
 - Master file: .docx. Send PDF only when a posting asks for it or allows either. Keep a plain-text copy for pasting into forms.
-- File name: "Firstname Lastname - Resume.docx" (fill from the Career Profile).
+- His own master copy: `Resume - Master.docx`. Files he uploads to employers carry his name, because recruiters see the file name: `Firstname Lastname - Resume - Company.docx`.
+- Set the file's author property to his name (some tools default to the tool's name).
+- Bullets: use Word's standard round bullet list, not typed symbols or images. In the plain-text copy, start each bullet with "- ".
 - Test: save or view as plain text; if anything is missing or jumbled, fix the layout.
 
 ## Words

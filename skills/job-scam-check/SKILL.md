@@ -12,12 +12,12 @@ Read `references/coach-rules.md` first and follow it. The red flags and where to
 
 ## Steps
 1. Read the posting, message or offer he shared. If it's a link you can't open, ask him to paste the text.
-2. Check it against every red flag in `references/red-flags.md`. If you can search the web, look for the company's own careers page and whether this job appears there, and search the company name with "scam" or "reviews".
+2. Check it against every red flag in `references/red-flags.md`. If you can search the web, look for the company's own careers page and whether this job appears there, and search the company name with "scam" or "reviews". If you can't check (no web search, or no company named), still give the verdict, and make step 1 "Find this job on the company's own careers page before you apply."
 3. Give the verdict in this exact shape:
    - **Green** (looks normal), **Yellow** (be careful, check these things first) or **Red** (stop, this looks like a scam).
    - One plain sentence on why.
    - What to do next, in at most 3 numbered steps.
-4. If **Green**: offer to tailor his resume for it. If **Yellow**: list what to verify and offer to draft a short question to the employer for him to send. If **Red**: tell him not to reply, pay, deposit anything, or share personal details, and how to report it.
+4. If **Green**: offer to tailor his resume for it. If **Yellow**: list what to verify and offer to draft a short question to the employer for him to send. If **Red**: tell him not to reply, pay, deposit anything, or share personal details, and how to report it. Then ask: "Did you already reply or send them anything?" If yes, follow "If you already paid" in red-flags.md.
 
 ## Rules
 - Never tell him a check "cleared" means it's safe. Banks can reverse fake checks days later.

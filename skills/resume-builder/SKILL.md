@@ -12,12 +12,12 @@ Read `references/coach-rules.md` first and follow it. Formatting rules are in `r
 
 ## Steps
 - [ ] 1. **Find the Career Profile** (coach rules 17). If it has `TO ASK` parts that matter for the resume, ask those first, one at a time.
-- [ ] 2. **Pick the target line.** Ask which role to aim the master at if the profile lists more than one (customer service vs help desk). Default: the first one listed.
+- [ ] 2. **Pick the target line.** Skip this if one target is clearly first in the profile. Ask only if two roles are equally weighted (customer service vs help desk).
 - [ ] 3. **Draft the summary**: 2 to 3 lines, no "I", naming the target role, years of customer-facing work, 2 strengths with proof.
 - [ ] 4. **Draft each job's bullets**, newest first, 3 to 5 bullets for recent jobs, 1 to 3 for older ones. Start each with an action verb. Put a number in most bullets. Use only facts from the profile; estimates only if he OK'd them. Translate duties into support language (see bullet examples).
 - [ ] 5. **Skills section**: 8 to 12 real skills, using the exact words support postings use (customer service, de-escalation, ticketing systems, troubleshooting, Microsoft Office, typing speed if 40+ wpm).
-- [ ] 6. **Show him the draft as plain text in the chat**, one section at a time if it's long. Ask: "Is every line true? Anything to change?" Fix it.
-- [ ] 7. **Make the files**: `Resume - Master.docx` (one column, rules in ats-rules.md) and a plain-text copy for pasting into application forms. Save to his Google Drive "Job Search" folder if connected, otherwise offer them as downloads. Say where they are.
+- [ ] 6. **Show him the draft as plain text in the chat**, one section at a time if it's long. Ask: "Is every line true? Anything to change?" Fix it. Before the jobs section, list every estimate in one question: "These numbers are your guesses: [list]. OK to put them on your resume?" Use only the ones he OKs.
+- [ ] 7. **Make the files**: `Resume - Master.docx` (one column, rules in ats-rules.md) and a plain-text copy for pasting into application forms. Save to his Google Drive "Job Search" folder if connected, otherwise offer them as downloads. Say where they are, only after the save worked. Upload copies he sends to employers are named with his name (see job-tailor).
 - [ ] 8. **Plain-text test**: read back the plain-text version and check that nothing is missing or out of order. If something is, fix the .docx.
 - [ ] 9. **Next step**: "Next we can write your LinkedIn, or tailor this for a job you've found." You can say: *do my LinkedIn* or *here's a job posting*.
 

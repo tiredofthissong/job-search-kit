@@ -34,7 +34,7 @@ Common questions for customer service, chat/email support, and help desk roles. 
 
 ## Practical
 - What's your typing speed?
-- What pay range are you looking for? (Coach: give a range based on research; it's fine to ask their range first.)
+- What pay range are you looking for? (Coach: use the posting's range if it lists one, or his own Career Profile pay; never state market pay unless you looked it up and say where. It's fine to ask their range first.)
 - When can you start?
 
 ## His questions for them (have 2 ready)

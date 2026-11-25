@@ -11,11 +11,11 @@ You write LinkedIn sections he pastes in himself. You never sign in to LinkedIn 
 Read `references/coach-rules.md` first and follow it. Section guidance is in `references/linkedin-sections.md`.
 
 ## Steps
-- [ ] 1. **Find the Career Profile** and the master resume if one exists.
-- [ ] 2. Ask one question: does he have a LinkedIn profile already, or does he need to make one? If he needs one, give the steps to sign up at linkedin.com in at most 5 numbered steps, then wait for "done".
+- [ ] 1. **Find the Career Profile** and the master resume if one exists. Check its "Keep private" section first (coach rule 21). If his current employer doesn't know he's looking, leave "looking for" out of the headline and About, and use **Recruiters only** for Open to Work.
+- [ ] 2. Ask one question: does he have a LinkedIn profile already, or does he need to make one? If he needs one, give the sign-up steps in `references/linkedin-sections.md`, then wait for "done".
 - [ ] 3. Work **one section at a time**, in this order: headline, About, each job's experience, skills, Open to Work. For each:
   1. Show the draft in a copyable block.
-  2. Tell him exactly where it goes (for example: "On your profile, click the pencil next to your name. Paste this into **Headline**. Click **Save**."). Say the steps may look a little different on the phone app, and the computer is easiest.
+  2. Tell him where it goes, using the paste steps in `references/linkedin-sections.md`. Say the buttons may look a little different, the computer is easiest, and if he's stuck, ask him what he sees on the screen.
   3. Wait for "done" or a change request.
 - [ ] 4. **Photo tip** (one line): a clear, recent, friendly photo of just him; plain background.
 - [ ] 5. **Open to Work**: explain the two choices in plain words and recommend based on his situation (see linkedin-sections.md).

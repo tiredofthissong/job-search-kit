@@ -9,7 +9,7 @@ Subject: Thank you – [Job title] interview on [Day]
 
 Hi [Name],
 
-Thank you for talking with me today about the [Job title] role. I enjoyed hearing about [one specific thing from the conversation], and it made me even more excited about the team.
+Thank you for talking with me today about the [Job title] role. I enjoyed hearing about [one specific thing from the conversation].
 
 [One sentence linking a strength to something they need.]
 
