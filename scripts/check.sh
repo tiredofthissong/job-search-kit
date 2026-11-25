@@ -25,6 +25,7 @@ for dir in skills/*/; do
   done
   cmp -s shared/coach-rules.md "$dir/references/coach-rules.md" || err "$name: references/coach-rules.md is out of date (run scripts/build-zips.sh)"
   [ -f "dist/$name.zip" ] || err "$name: dist/$name.zip missing (run scripts/build-zips.sh)"
+  [ -f "guides/$name.md" ] || err "$name: guides/$name.md missing (run scripts/build-guides.sh)"
 done
 
 # 2. No secrets.
@@ -35,6 +36,11 @@ if grep -rnIE "$secrets" --exclude-dir=.git --exclude-dir=dist --exclude=check.s
 email='[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}'
 phone='(\(?[0-9]{3}\)?[ .-][0-9]{3}[ .-][0-9]{4})'
 if grep -rnIE "$email|$phone" --exclude-dir=.git --exclude-dir=dist --exclude=check.sh --exclude=checks.yml . ; then err "possible email or phone number above; this repo must hold no personal data"; fi
+
+# Guides must match the skills they are built from
+tmp=$(mktemp -d); bash scripts/build-guides.sh "$tmp" >/dev/null
+diff -rq "$tmp" guides >/dev/null || err "guides/ is out of date (run scripts/build-guides.sh)"
+rm -rf "$tmp"
 
 [ $fail -eq 0 ] && echo "All checks passed." || echo "Checks failed."
 exit $fail

@@ -1,4 +1,6 @@
-# Install (about 15 minutes, on a computer)
+# Optional: install as Claude skills (about 15 minutes, on a computer)
+
+**Most people can skip this page.** The message in START-HERE.md has Claude read the guides by link, with nothing to install. Use this page only if you're comfortable in Claude's settings and want the guides installed as skills.
 
 Do this once, on a computer browser, ideally with a friend beside you. Uploading skills from the phone app isn't confirmed to work.
 
@@ -30,7 +32,7 @@ If an upload fails, try that one again. If it still fails, ask your friend who s
 3. Optional: **Indeed** or **ZipRecruiter** connectors help search for jobs. You still apply on their sites yourself.
 
 ## 5. Start
-Open Claude Duet, copy the message in START-HERE.md, paste it, and send.
+Open Claude Duet, copy the message in START-HERE.md, paste it, and send. (With the skills installed, Claude can use them directly; the links in the message still work as a backup.)
 
 ## First-day check
 - After the resume is made, make sure you can open or download `Resume - Master.docx`. If you can't find it, ask Claude: "Where did you save my resume?"
